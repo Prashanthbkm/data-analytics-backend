@@ -1,0 +1,16 @@
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\config\AIConfig.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\config\CorsConfig.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\controller\AIController.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\controller\DatabaseController.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\controller\TransactionController.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\DataAnalyticsDashboardApplication.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\dto\AggregateResultDTO.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\dto\AmountDateDTO.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\dto\DateCountDTO.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\dto\FilterRequest.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\dto\KpiResponse.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\dto\StatusCountDTO.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\entity\Transaction.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\repository\TransactionRepository.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\service\AIService.java
+D:\data-analytics-dashboard\data-analytics-dashboard\src\main\java\com\example\data_analytics_dashboard\service\TransactionService.java

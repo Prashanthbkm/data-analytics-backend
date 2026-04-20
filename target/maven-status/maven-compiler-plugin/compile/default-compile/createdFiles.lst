@@ -1,0 +1,17 @@
+com\example\data_analytics_dashboard\DataAnalyticsDashboardApplication.class
+com\example\data_analytics_dashboard\config\CorsConfig.class
+com\example\data_analytics_dashboard\dto\StatusCountDTO.class
+com\example\data_analytics_dashboard\controller\AIController.class
+com\example\data_analytics_dashboard\dto\AggregateResultDTO.class
+com\example\data_analytics_dashboard\repository\TransactionRepository.class
+com\example\data_analytics_dashboard\controller\TransactionController.class
+com\example\data_analytics_dashboard\dto\DateCountDTO.class
+com\example\data_analytics_dashboard\controller\DatabaseController.class
+com\example\data_analytics_dashboard\config\CorsConfig$1.class
+com\example\data_analytics_dashboard\service\AIService.class
+com\example\data_analytics_dashboard\config\AIConfig.class
+com\example\data_analytics_dashboard\entity\Transaction.class
+com\example\data_analytics_dashboard\dto\AmountDateDTO.class
+com\example\data_analytics_dashboard\dto\FilterRequest.class
+com\example\data_analytics_dashboard\dto\KpiResponse.class
+com\example\data_analytics_dashboard\service\TransactionService.class
